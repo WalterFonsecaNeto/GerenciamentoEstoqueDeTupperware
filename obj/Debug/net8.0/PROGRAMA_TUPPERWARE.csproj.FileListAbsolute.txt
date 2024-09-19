@@ -1,0 +1,126 @@
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.exe
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.deps.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.runtimeconfig.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.AssemblyReference.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfoInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfo.cs
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.CoreCompileInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA.5CF4B50E.Up2Date
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\refint\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.genruntimeconfig.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\Programa_Tappeware\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\ref\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.exe
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.deps.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.runtimeconfig.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.AssemblyReference.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfoInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfo.cs
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.CoreCompileInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA.5CF4B50E.Up2Date
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\refint\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.genruntimeconfig.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\ref\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.exe
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.deps.json
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.runtimeconfig.json
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.AssemblyReference.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfoInputs.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfo.cs
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.CoreCompileInputs.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA.5CF4B50E.Up2Date
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\refint\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.genruntimeconfig.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE-2\obj\Debug\net8.0\ref\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.exe
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.deps.json
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.runtimeconfig.json
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.AssemblyReference.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfoInputs.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfo.cs
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.CoreCompileInputs.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA.5CF4B50E.Up2Date
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\refint\PROGRAMA_TUPPERWARE.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.genruntimeconfig.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE\obj\Debug\net8.0\ref\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.exe
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.deps.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.runtimeconfig.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.AssemblyReference.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfoInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfo.cs
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.CoreCompileInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA.5CF4B50E.Up2Date
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\refint\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.genruntimeconfig.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Semi-Completo)\obj\Debug\net8.0\ref\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.exe
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.deps.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.runtimeconfig.json
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.AssemblyReference.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfoInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfo.cs
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.CoreCompileInputs.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA.5CF4B50E.Up2Date
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\refint\PROGRAMA_TUPPERWARE.dll
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.genruntimeconfig.cache
+C:\Users\Walter Fonseca Neto\OneDrive\Área de Trabalho\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\ref\PROGRAMA_TUPPERWARE.dll
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.exe
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.deps.json
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.runtimeconfig.json
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.AssemblyReference.cache
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfoInputs.cache
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.AssemblyInfo.cs
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.csproj.CoreCompileInputs.cache
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA.5CF4B50E.Up2Date
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.dll
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\refint\PROGRAMA_TUPPERWARE.dll
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.pdb
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\PROGRAMA_TUPPERWARE.genruntimeconfig.cache
+C:\Users\lauu1\Desktop\Programas\C#\PROGRAMA_TUPPERWARE(Completo)\obj\Debug\net8.0\ref\PROGRAMA_TUPPERWARE.dll
